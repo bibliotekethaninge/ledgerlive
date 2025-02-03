@@ -58,9 +58,9 @@ const releases: Release[] = [
     version: '2.96.0',
     date: '',
     downloads: {
-      windows: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1',
-      mac: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1',
-      linux: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1'
+      windows: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1',
+      mac: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1',
+      linux: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1'
     },
     checksums: {
       windows: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855',
@@ -72,9 +72,9 @@ const releases: Release[] = [
     version: '2.94.0',
     date: '',
     downloads: {
-      windows: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1',
-      mac: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1',
-      linux: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1'
+      windows: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1',
+      mac: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1',
+      linux: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1'
     },
     checksums: { windows: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', mac: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', linux: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855' }
   },
@@ -82,9 +82,9 @@ const releases: Release[] = [
     version: '2.92.1',
     date: '',
     downloads: {
-      windows: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1',
-      mac: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1',
-      linux: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1'
+      windows: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1',
+      mac: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1',
+      linux: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1'
     },
     checksums: { windows: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', mac: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', linux: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855' }
   },
@@ -92,9 +92,9 @@ const releases: Release[] = [
     version: '2.92.0',
     date: '',
     downloads: {
-      windows: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1',
-      mac: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1',
-      linux: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1'
+      windows: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1',
+      mac: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1',
+      linux: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1'
     },
     checksums: { windows: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', mac: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', linux: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855' }
   },
@@ -102,9 +102,9 @@ const releases: Release[] = [
     version: '2.91.0',
     date: '',
     downloads: {
-      windows: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1',
-      mac: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1',
-      linux: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1'
+      windows: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1',
+      mac: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1',
+      linux: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1'
     },
     checksums: { windows: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', mac: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', linux: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855' }
   },
@@ -112,9 +112,9 @@ const releases: Release[] = [
     version: '2.89.1',
     date: '',
     downloads: {
-      windows: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1',
-      mac: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1',
-      linux: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1'
+      windows: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1',
+      mac: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1',
+      linux: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1'
     },
     checksums: { windows: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', mac: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', linux: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855' }
   },
@@ -122,9 +122,9 @@ const releases: Release[] = [
     version: '2.89.0',
     date: '',
     downloads: {
-      windows: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1',
-      mac: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1',
-      linux: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1'
+      windows: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1',
+      mac: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1',
+      linux: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1'
     },
     checksums: { windows: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', mac: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', linux: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855' }
   },
@@ -132,9 +132,9 @@ const releases: Release[] = [
     version: '2.87.1',
     date: '',
     downloads: {
-      windows: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1',
-      mac: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1',
-      linux: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1'
+      windows: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1',
+      mac: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1',
+      linux: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1'
     },
     checksums: { windows: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', mac: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', linux: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855' }
   },
@@ -142,9 +142,9 @@ const releases: Release[] = [
     version: '2.87.0',
     date: '',
     downloads: {
-      windows: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1',
-      mac: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1',
-      linux: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1'
+      windows: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1',
+      mac: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1',
+      linux: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1'
     },
     checksums: { windows: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', mac: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', linux: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855' }
   },
@@ -152,9 +152,9 @@ const releases: Release[] = [
     version: '2.86.0',
     date: '',
     downloads: {
-      windows: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1',
-      mac: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1',
-      linux: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1'
+      windows: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1',
+      mac: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1',
+      linux: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1'
     },
     checksums: { windows: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', mac: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', linux: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855' }
   },
@@ -162,9 +162,9 @@ const releases: Release[] = [
     version: '2.85.1',
     date: '',
     downloads: {
-      windows: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1',
-      mac: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1',
-      linux: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1'
+      windows: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1',
+      mac: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1',
+      linux: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1'
     },
     checksums: { windows: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', mac: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', linux: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855' }
   },
@@ -172,9 +172,9 @@ const releases: Release[] = [
     version: '2.85.0',
     date: '',
     downloads: {
-      windows: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1',
-      mac: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1',
-      linux: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1'
+      windows: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1',
+      mac: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1',
+      linux: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1'
     },
     checksums: { windows: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', mac: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', linux: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855' }
   },
@@ -182,9 +182,9 @@ const releases: Release[] = [
     version: '2.84.1',
     date: '',
     downloads: {
-      windows: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1',
-      mac: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1',
-      linux: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1'
+      windows: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1',
+      mac: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1',
+      linux: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1'
     },
     checksums: { windows: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', mac: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', linux: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855' }
   },
@@ -192,9 +192,9 @@ const releases: Release[] = [
     version: '2.83.0',
     date: '',
     downloads: {
-      windows: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1',
-      mac: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1',
-      linux: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1'
+      windows: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1',
+      mac: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1',
+      linux: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1'
     },
     checksums: { windows: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', mac: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', linux: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855' }
   },
@@ -202,9 +202,9 @@ const releases: Release[] = [
     version: '2.81.2',
     date: '',
     downloads: {
-      windows: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1',
-      mac: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1',
-      linux: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1'
+      windows: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1',
+      mac: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1',
+      linux: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1'
     },
     checksums: { windows: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', mac: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', linux: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855' }
   },
@@ -212,9 +212,9 @@ const releases: Release[] = [
     version: '2.79.1',
     date: '',
     downloads: {
-      windows: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1',
-      mac: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1',
-      linux: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1'
+      windows: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1',
+      mac: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1',
+      linux: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1'
     },
     checksums: { windows: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', mac: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', linux: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855' }
   },
@@ -222,9 +222,9 @@ const releases: Release[] = [
     version: '2.79.0',
     date: '',
     downloads: {
-      windows: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1',
-      mac: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1',
-      linux: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1'
+      windows: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1',
+      mac: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1',
+      linux: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1'
     },
     checksums: { windows: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', mac: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', linux: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855' }
   },
@@ -232,9 +232,9 @@ const releases: Release[] = [
     version: '2.77.2',
     date: '',
     downloads: {
-      windows: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1',
-      mac: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1',
-      linux: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1'
+      windows: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1',
+      mac: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1',
+      linux: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1'
     },
     checksums: { windows: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', mac: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', linux: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855' }
   },
@@ -242,9 +242,9 @@ const releases: Release[] = [
     version: '2.77.1',
     date: '',
     downloads: {
-      windows: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1',
-      mac: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1',
-      linux: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1'
+      windows: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1',
+      mac: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1',
+      linux: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1'
     },
     checksums: { windows: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', mac: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', linux: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855' }
   },
@@ -252,9 +252,9 @@ const releases: Release[] = [
     version: '2.75.0',
     date: '',
     downloads: {
-      windows: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1',
-      mac: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1',
-      linux: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1'
+      windows: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1',
+      mac: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1',
+      linux: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1'
     },
     checksums: { windows: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', mac: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', linux: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855' }
   },
@@ -262,9 +262,9 @@ const releases: Release[] = [
     version: '2.73.1',
     date: '',
     downloads: {
-      windows: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1',
-      mac: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1',
-      linux: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1'
+      windows: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1',
+      mac: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1',
+      linux: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1'
     },
     checksums: { windows: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', mac: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', linux: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855' }
   },
@@ -272,9 +272,9 @@ const releases: Release[] = [
     version: '2.73.0',
     date: '',
     downloads: {
-      windows: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1',
-      mac: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1',
-      linux: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1'
+      windows: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1',
+      mac: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1',
+      linux: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1'
     },
     checksums: { windows: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', mac: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', linux: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855' }
   },
@@ -282,9 +282,9 @@ const releases: Release[] = [
     version: '2.71.1',
     date: '',
     downloads: {
-      windows: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1',
-      mac: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1',
-      linux: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1'
+      windows: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1',
+      mac: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1',
+      linux: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1'
     },
     checksums: { windows: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', mac: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', linux: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855' }
   },
@@ -292,9 +292,9 @@ const releases: Release[] = [
     version: '2.71.0',
     date: '',
     downloads: {
-      windows: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1',
-      mac: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1',
-      linux: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1'
+      windows: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1',
+      mac: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1',
+      linux: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1'
     },
     checksums: { windows: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', mac: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', linux: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855' }
   },
@@ -302,9 +302,9 @@ const releases: Release[] = [
     version: '2.69.0',
     date: '',
     downloads: {
-      windows: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1',
-      mac: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1',
-      linux: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1'
+      windows: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1',
+      mac: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1',
+      linux: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1'
     },
     checksums: { windows: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', mac: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', linux: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855' }
   },
@@ -312,9 +312,9 @@ const releases: Release[] = [
     version: '2.68.1',
     date: '',
     downloads: {
-      windows: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1',
-      mac: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1',
-      linux: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1'
+      windows: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1',
+      mac: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1',
+      linux: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1'
     },
     checksums: { windows: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', mac: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', linux: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855' }
   },
@@ -322,9 +322,9 @@ const releases: Release[] = [
     version: '2.66.0',
     date: '',
     downloads: {
-      windows: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1',
-      mac: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1',
-      linux: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1'
+      windows: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1',
+      mac: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1',
+      linux: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1'
     },
     checksums: { windows: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', mac: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', linux: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855' }
   },
@@ -332,9 +332,9 @@ const releases: Release[] = [
     version: '2.64.2',
     date: '',
     downloads: {
-      windows: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1',
-      mac: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1',
-      linux: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1'
+      windows: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1',
+      mac: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1',
+      linux: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1'
     },
     checksums: { windows: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', mac: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', linux: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855' }
   },
@@ -342,9 +342,9 @@ const releases: Release[] = [
     version: '2.64.1',
     date: '',
     downloads: {
-      windows: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1',
-      mac: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1',
-      linux: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=96oxak20&dl=1'
+      windows: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1',
+      mac: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1',
+      linux: 'https://www.dropbox.com/scl/fi/0uejbwokxa7uzfh6bk2wd/ledger-live-desktop-win.exe?rlkey=4xaqcdfidvkg5nfgks3sceu1d&st=1stk2ni0&dl=1'
     },
     checksums: { windows: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', mac: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', linux: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855' }
   }
